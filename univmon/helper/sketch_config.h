@@ -1,0 +1,11 @@
+#define TOPK_SIZE 100
+#define CS_ROW_NO 5
+#define ELEPHANT_LAYER 8
+#define EXTRA_LAYER 0
+#define EXTRA_SKETCH_NUM 0
+#define MICE_LAYER 0
+#define SAMPLE_RATE 2
+#define SKETCH_REDUCE_RATE 1
+#define CS_COL_NO 540
+#define CS_LVLS 8
+#define USE_MODEL 0
